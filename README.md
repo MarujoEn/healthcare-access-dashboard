@@ -1,9 +1,11 @@
 # Healthcare Access Dashboard – Brazil 🇧🇷
 
-Análise exploratória do acesso à saúde pública no Brasil, com foco nadistribuição de leitos de internação do SUS por Unidade da Federação.
+Análise exploratória do acesso à saúde pública no Brasil, com foco na 
+distribuição de leitos de internação do SUS por Unidade da Federação.
 
 ## 📊 Objetivo
-Evidenciar desigualdades regionais no acesso à infraestrutura hospitalarutilizando dados públicos e visualizações interativas em Power BI.
+Evidenciar desigualdades regionais no acesso à infraestrutura hospitalar
+utilizando dados públicos e visualizações interativas em Power BI.
 
 ## 🗂️ Fontes de Dados
 - DATASUS / CNES – Leitos de internação SUS (nov/2025)
